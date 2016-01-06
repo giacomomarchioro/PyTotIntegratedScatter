@@ -15,7 +15,7 @@ Like this:
 
 ###TIS.py
 
-This is a simple script that you can eventually ran changing the parameters directly on the script.
+This is a simple script that you can eventually run changing the parameters directly on the script.
 
 
 
